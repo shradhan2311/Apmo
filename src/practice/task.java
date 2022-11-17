@@ -1,7 +1,10 @@
 package practice;
 
 public class task {
-
+public void m1()
+{
+System.out.println("hiiiii");	
+}
 	public static void main(String[] args) {
 
 		 int i=3;
