@@ -4,6 +4,7 @@ public class task {
 public void m1()
 {
 System.out.println("hiiiii");	
+int a=0;
 }
 	public static void main(String[] args) {
 
